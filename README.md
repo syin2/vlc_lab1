@@ -15,10 +15,10 @@ This will generate the `led_send.ko` kernel module.
 Load this kernel module.  
 `lsmod`  
 Check whether the kernle module was successfully loaded. You can also check
-it by typing the following command
+it by typing the following command  
 `dmesg`  
 View the data transmitted by the LED. The waveform should be similar like 
-the following [image](http://nsl.cs.uh.edu/~syin/openvlc/bpsk_rigol.jpg) .
+the following ![image](http://nsl.cs.uh.edu/~syin/openvlc/bpsk_rigol.jpg) .
  
   
 
