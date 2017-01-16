@@ -7,7 +7,7 @@
 #include <rtdm/rtdm_driver.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Andy Yin");
+MODULE_AUTHOR("Shengrong Yin");
 MODULE_DESCRIPTION("FSK for TLCR5800");
 MODULE_VERSION("0.1");
 
